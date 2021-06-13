@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Quick takedown of 'Taboo' and 'Rude Manners'"
-date: 1738-12-25
-reviewed: 2021-05-28
-
-published: true
-tags: non-professional
-excerpt: 'Takedown of dumb ideas that make no sense. Derails from some fun safe ideas into much more important concepts. Kinda ruthless.'
-comments: true
+title: Takedown of 'Taboo' Topics and 'Rude' Manners
+categories: junk
+author:
+- Nuclearus
+meta: "Springfield"
 ---
-Warning: This post contains swears and is highly sharp. You'll see what I mean. This is a combination of logic and sharp emotion that derides you with even more logic. If you aren't ready to see how I talk when I get genuinely worked up over something, don't go past 'Elbows on Table'. Good luck. This is raw me.
+Warning: This post contains swears and is highly sharp. You'll see what I mean. This is a combination of logic and sharp emotion that derides you with even more logic. If you aren't ready to see how I talk when I get genuinely worked up over something, don't go past 'Elbows on Table'. Good luck. This is raw me. 'Takedown of dumb ideas that make no sense. Derails from some fun safe ideas into much more important concepts. Kinda ruthless.
 
 <h2> Table of Contents </h2>
 <ul>
@@ -231,3 +228,16 @@ What do other people get from doing it (some couple's gonna get a foster babi) a
 I figured out a way to determine whether 
 1. Any moral problem has an overall solution (has a steady state as opposed to eternally fucked)
 2. How to reach an average consensus
+
+
+Basically, the short version is:
+There is a line - a spectrum of PRO to ANTI.
+
+If someone is leaning Pro, put them full ANTI. If leaning anti, put full Pro.
+
+Then, they have to try to reach to their original belief via logic. If they can't, blah. Too bad. You're stuck where you are.
+Now, the opposing member (Y) will see if they can push back X by checking whether their logic makes sense. Let's say X is on the - side, and started from the + to move to -. If Y can find a logical jump that X did which isn't actaully logical, that means that X's arguments can only go so far towards the -. X does this to Y.
+You can have multiple generations of this, and eventually you'll reach an average conclusion that both parties (should) will agree on. Or atleast, after N tries, just average the 2 out and call that a value. This will be visualised as a line between the line-spectrum from + to -.
+
+Then, iterate this process on a large population, finding the line for each set of people.
+Eventually, you should find the average value that a population beliefs about N concept. Doesn't mean it's right, just what is the cultural average.
