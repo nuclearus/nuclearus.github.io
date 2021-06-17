@@ -17,6 +17,21 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+<audio src="assets/Champions Cal.mp3" controls></audio>
+<audio src="assets/ViolinBAMBOO.mp3" controls></audio>
+<audio src="assets/asdsasd.mp3" controls></audio>
+<audio src="assets/cat sings something about hating life or something.mp3
+" controls></audio>
+<audio src="assets/flymeMoon.mp3" controls></audio>
+<audio src="assets/empty crown.mp3" controls></audio>
+<audio src="assets/chingchongpianoman.mp3" controls></audio>
+<audio src="assets/ghost.mp3" controls></audio>
+<audio src="assets/islikethething.mp3" controls></audio>
+<audio src="assets/qweas.mp3" controls></audio>
+<audio src="assets/tsfh.mp3" controls></audio>
+<audio src="assets/uso.mp3" controls></audio>
+
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
